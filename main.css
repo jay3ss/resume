@@ -1,9 +1,3 @@
-/* TODO */
-/* Switch main font to black and other fonts to gray */
-/* COMPLETE Switch unordered list elements to hyphens instead of bullets */
-/* COMPLETE Make unordered list elements font-size smaller */
-/* COMPLETE Make a class that pushes elements to the right */
-
 body {
   background-color: white;
   font-family: 'Gudea', sans-serif;
@@ -40,9 +34,6 @@ body {
   display: inline-block;
   text-decoration: none;
 }
-  .links:hover {
-    color: #DF723E;
-  }
 
 .links img {
   margin-bottom: -.2em;
@@ -91,7 +82,7 @@ body {
 }
 
 .category-description-main {
-  color: #808284;
+  color: #000;
   font-size: .9em;
   line-height: 1.4em;
   margin-bottom: 1%;
